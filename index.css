@@ -1,0 +1,67 @@
+#score{
+    text-align: center;
+    color: rgb(128, 73, 10);
+    border-radius: 10px;
+    border-color: brown;
+    border: 3px;
+    font-size: larger;
+}
+
+.reward{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    Color: green;
+    border: 3px brown;
+}
+
+.acrue-points{
+display: flex;
+justify-content: center;
+align-items: center;
+Color: rgb(12, 12, 15);
+border-radius: 15px;
+border-color: brown;
+border: 3px brown;
+}
+
+#acrue-points {
+    background-color: blanchedalmond;
+    color:rgb(99, 65, 3)
+}
+
+#point-tracker{
+    border-radius: 15px;
+    border-color: brown;
+    background-color: black;
+    border: 3px brown;
+    padding: 0.5rem;
+}
+
+#acrue-points{
+    color:rgb(219, 103, 9);
+    border: 3px brown;
+}
+
+html {
+    background-color: rgb(155, 134, 102);
+}
+
+header {
+    border-bottom: 1px solid rgb(26, 13, 12);
+    padding: 0.5rem 1rem;
+    font-family: cursive;
+    background: rgb(99, 65, 3);
+    text-align: center;
+    font-size:larger;
+    font-weight: bolder;
+}
+
+#coffee-img{
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+
+}
